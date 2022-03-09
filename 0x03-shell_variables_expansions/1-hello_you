@@ -1,2 +1,2 @@
 #!/bin/bash
-alias print= 'echo "heloo user" '
+echo "hello $USER
